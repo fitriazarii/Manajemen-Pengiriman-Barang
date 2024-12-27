@@ -17,7 +17,7 @@ Then, you can run the following commands:
 1. Navigate to the project directory:
 
     ```bash
-    cd inventorify-laravel
+    cd Manajemen-Pengiriman-Barang
     ```
 
 2. Copy the example environment file and configure the database:
