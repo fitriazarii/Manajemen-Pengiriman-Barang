@@ -10,7 +10,7 @@ Before you start, make sure you have:
 
 To get started, clone the repository:
 
-- `git clone https://github.com/adzaky/inventorify-laravel`
+- `git clone https://github.com/fitriazarii/Manajemen-Pengiriman-Barang.git`
 
 Then, you can run the following commands:
 
